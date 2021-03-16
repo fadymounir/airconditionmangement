@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cda72949-fa4c-4d2f-a546-aa37c6bb916b" name="Mangement" url="http://49.12.8.167">
+        <fileTransfer rootFolder="/public_html/airConditionMangement" host="49.12.8.167" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
